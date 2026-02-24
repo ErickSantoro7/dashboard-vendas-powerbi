@@ -26,11 +26,6 @@ Este projeto tem como objetivo analisar o desempenho de vendas ao longo de 2024,
 - Ranking de produtos por receita
 - Identificação de sazonalidade
 
----
-
-## 🖼 Preview do Dashboard
-
-![Dashboard Preview](dashboard-preview.png)
 
 ---
 
